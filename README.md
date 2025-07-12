@@ -22,8 +22,8 @@ To run Maze Surfers, you'll need:
 ## **Installation**
 
 1. **Clone the repository (or download the code):**  
-   git clone \<repository\_url\> \# Replace with your repository URL  
-   cd MazeSurfers
+   git clone https://github.com/Pranav7979/Maze-Surfers  
+   cd Maze Surfers
 
 2. Install Pygame:  
    If you don't have Pygame installed, you can install it using pip:  
